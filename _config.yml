@@ -3,7 +3,7 @@ author: Tokotomka
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Test job
-  hmm
+  hmm+
 
 # social links
 twitter_username: your-twitter-handle
